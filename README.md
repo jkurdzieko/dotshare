@@ -1,0 +1,2 @@
+# dotshare
+Blog posts container
